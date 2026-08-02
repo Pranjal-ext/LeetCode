@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranjal-ext/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Pranjal-ext/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pranjal-ext/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pranjal-ext/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pranjal-ext/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
