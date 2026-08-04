@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pranjal-ext/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranjal-ext/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pranjal-ext/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3731-find-missing-elements](https://github.com/Pranjal-ext/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranjal-ext/LeetCode/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/Pranjal-ext/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pranjal-ext/LeetCode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Pranjal-ext/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
